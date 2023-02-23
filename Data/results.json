@@ -10,5 +10,11 @@
         "name": "marianne",
         "turns": 11,
         "matches": 4
+    },
+    {
+        "id": 92,
+        "name": "sheriff",
+        "turns": 2,
+        "matches": 0
     }
 ]
